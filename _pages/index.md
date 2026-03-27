@@ -2,10 +2,11 @@
 layout: single
 title: "Diego Espinoza"
 author_profile: true
-
 ---
 
 [Download my CV (PDF)](/espinoza.cv.pdf)
+
+---
 
 ## Education
 
@@ -62,4 +63,4 @@ author_profile: true
 - English — fluent  
 - French — reading knowledge  
 - German — reading knowledge  
-- Latin — reading knowledge
+- Latin — reading knowledge  
