@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+layout: single
+title: "Diego Espinoza"
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 [Download my CV (PDF)](/espinoza.cv.pdf)
