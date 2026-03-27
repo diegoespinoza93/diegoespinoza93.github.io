@@ -7,58 +7,61 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (PDF)](/espinoza.cv.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**PhD in Medieval Studies**, University of Toronto  
+<span style="float:right;">2022–Present</span>  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**MA in Philosophy**, The Catholic University of America  
+<span style="float:right;">2021</span>  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**BA in Philosophy**, Universidad Panamericana  
+<span style="float:right;">2015</span>  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Research Interests
+
+- Medieval Philosophy  
+- Ancient Philosophy  
+- Epistemology  
+
+---
+
+## Teaching Experience
+
+**Introduction to Philosophy: Knowledge and Reality**, University of Toronto  
+<span style="float:right;">TA, Winter 2026</span>  
+
+**Early Medieval Philosophy**, University of Toronto  
+<span style="float:right;">TA, Fall 2025</span>  
+
+**Later Medieval Philosophy**, University of Toronto  
+<span style="float:right;">TA, Winter 2025</span>  
+
+**Early Medieval Philosophy**, University of Toronto  
+<span style="float:right;">TA, Fall 2023</span>  
+
+**Later Medieval Philosophy**, University of Toronto  
+<span style="float:right;">TA, Winter 2023</span>  
+
+---
+
+## Presentations
+
+- “Ockham and Deference to Authority,” 2025 Toronto Colloquium in Medieval Philosophy  
+- “Ockham on Authority and Disagreement,” 9th Cologne-Toronto Graduate Student Colloquium, 2023  
+- “Nicole Oresme on Singular Cognition,” Society for Medieval and Renaissance Philosophy Inaugural Conference, 2021  
+- “Ockham’s Assessment of Averroes and Aquinas on the Separability of the Intellect,” 8th Aquinas and the Arabs International Working Group Annual Online Graduate Student Workshop, 2020  
+
+---
+
+## Languages
+
+- Spanish — native  
+- English — fluent  
+- French — reading knowledge  
+- German — reading knowledge  
+- Latin — reading knowledge
