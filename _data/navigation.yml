@@ -1,6 +1,6 @@
 main:
-  - title: Home
-    url: /
+  - title: Welcome
+    url: /#welcome
   - title: Education
     url: /#education
   - title: Research
