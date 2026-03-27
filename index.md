@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 
-## Education
+## Education {#education}
 
 **PhD in Medieval Studies**, University of Toronto  
 <span style="float:right;">2022–Present</span>  
@@ -23,7 +23,7 @@ author_profile: true
 
 ---
 
-## Research Interests
+## Research Interests {#research}
 
 - Medieval Philosophy  
 - Ancient Philosophy  
@@ -31,7 +31,7 @@ author_profile: true
 
 ---
 
-## Teaching Experience
+## Teaching Experience {#teaching}
 
 **Introduction to Philosophy: Knowledge and Reality**, University of Toronto  
 <span style="float:right;">TA, Winter 2026</span>  
@@ -50,7 +50,7 @@ author_profile: true
 
 ---
 
-## Presentations
+## Presentations {#presentations}
 
 - “Ockham and Deference to Authority,” 2025 Toronto Colloquium in Medieval Philosophy  
 - “Ockham on Authority and Disagreement,” 9th Cologne-Toronto Graduate Student Colloquium, 2023  
@@ -59,7 +59,7 @@ author_profile: true
 
 ---
 
-## Languages
+## Languages {#languages}
 
 - Spanish — native  
 - English — fluent  
